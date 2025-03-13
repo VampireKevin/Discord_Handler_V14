@@ -1,0 +1,16 @@
+{
+  "name": "new-handler",
+  "version": "1.0.0",
+  "main": "./src/Bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://kevinnabil.vercel.app/",
+  "license": "ISC",
+  "description": "[Handler V14] Slash Sommands & Prefix",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "discord.js": "^14.17.3",
+    "moment": "^2.30.1"
+  }
+}
