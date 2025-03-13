@@ -20,7 +20,6 @@ module.exports = {
    */
 
   async run(interaction) {
-    
     await interaction.reply({ content: "test" });
   },
 };
