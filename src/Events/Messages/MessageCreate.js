@@ -44,13 +44,6 @@ module.exports = {
       );
 
     if (!command) return;
-    /*
-    if (!client.dev.includes(message.author.id) && client.dev.length > 0) {
-      message.channel.send("The bot is under maintenance. (Please come back again later)");
-      console.log(`[INFOMATION] ${message.author.tag} trying request the command!`);
-      return;
-    }
-*/
     if (
       !message.guild.members.me.permissions.has(
         PermissionsBitField.resolve("SendMessages")
