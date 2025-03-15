@@ -1,4 +1,3 @@
-```
 # Discord Handler V14
 
 A Discord bot handler for managing slash commands and prefix commands using Discord.js v14.
@@ -93,4 +92,3 @@ This project is licensed under the **ISC License**.
 
 ## Credits
 Made by [VampireKevin](https://github.com/VampireKevin), **Vampire Studio**.
-```
